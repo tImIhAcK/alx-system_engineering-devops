@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $(($DIVIDE/$PROVIDE))
-
+echo $(($DIVIDE/$PROVIDE))"\n"
